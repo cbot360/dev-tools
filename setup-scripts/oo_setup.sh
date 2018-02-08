@@ -2,7 +2,7 @@
 
 export BUILD_BASE='/home/oneops/build'
 export OO_HOME='/home/oneops'
-export GITHUB_URL='https://github.com/oneops'
+export GITHUB_URL='https://github.com/cbot360'
 
 mkdir -p $BUILD_BASE
 
