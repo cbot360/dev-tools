@@ -3,7 +3,7 @@
 export BUILD_BASE='/home/oneops/build'
 export OO_HOME='/home/oneops'
 export SEARCH_SITE=localhost
-export GITHUB_URL='https://github.com/oneops'
+export GITHUB_URL='https://github.com/cbot360'
 export GITHUB_CIRCUIT_URL=git@gecgit:walmartlabs
 
 now=$(date +"%T")
